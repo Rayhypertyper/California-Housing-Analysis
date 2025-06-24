@@ -45,6 +45,7 @@ plt.ylabel('Median income')
 plt.grid(True)
 plt.legend() # shows the legend
 plt.tight_layout()
+
 plt.show()
 
 # plt.figure(figsize=(12,6))
